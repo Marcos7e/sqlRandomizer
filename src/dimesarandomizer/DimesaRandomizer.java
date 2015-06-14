@@ -25,9 +25,9 @@ public class DimesaRandomizer {
       // ob.insertForCostoEquipo(2000);
         //ob.insertForEmpleados(2000);
      //    ob.insertForEquipos(2000);
-         //  ob.insertForEvento(2000);
+           ob.insertForEvento(2000);
       //   ob.insertForServicios(2000);
-         ob.insertForSupervisor(1000);
+       //  ob.insertForSupervisor(1000);
         
     
         

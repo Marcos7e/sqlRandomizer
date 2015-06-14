@@ -40,8 +40,8 @@ public class CamposBD {
     public String[]nombreEquipo = {"Nombre1","Nombre2","Nombre3","Nombre4","Nombre5","Nombre6","Nombre7","Nombre8","Nombre9","Nombre10","Nombre11","Nombre12","Nombre13","Nombre14","Nombre15","Nombre16","Nombre17","Nombre18"};
     public String[]observacion = {"Observacion1","Observacion2","Observacion3","Observacion4","Observacion5","Observacion6","Observacion7","Observacion8","Observacion9","Observacion10","Observacion11","Observacion12","Observacion13","Observacion14"};
     public String[]EmpresaResponsable = {"Empresa1","Empresa2","Empresa3"};
-    public String[] fechas = {"10-10-1992","11-11-2000","1-1-2000"};
-    public String[] fechasFinales = {"10-10-1993","11-11-2001","1-1-2001"};
+    public String[] fechas = {"2015-06-04","2015-06-05","2015-06-06","2015-06-07","2015-06-08","2015-06-09","2015-06-10"};
+    public String[] fechasFinales = {"2016-06-04","2016-06-05","2016-06-06","2016-06-07","2016-06-08","2016-06-09","2016-06-10"};
     public String[] servicios = {"Servicio1","Servicio2","Servicio3","Servicio4","Servicio5","Servicio6","Servicio7","Servicio8"};
     public String[] unidad = {"Cuidados Intensivos","Emergencias","Pediatria","Oftalmologia","unidad2"};
     public String[] falla = {"falla1","falla2","falla3","falla4"};    
